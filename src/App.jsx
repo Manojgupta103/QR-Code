@@ -9,7 +9,7 @@ function App() {
         <div className='box'>
           <div className='qr'>
             <div className='image'>
-              <img src='./images/qr-code.png' alt='QR Code' />
+              <img src='./qr-code.png' alt='QR Code' />
             </div>
           </div>
           <div className='text'>
